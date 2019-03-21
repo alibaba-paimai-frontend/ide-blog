@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{141:function(e,n,a){"use strict";a.r(n);var t=a(0),o=a.n(t),l=a(33),c=a.n(l);n.default=function(){return o.a.createElement("div",null,o.a.createElement("p",null,"Hello world from my second Gatsby page"),o.a.createElement(c.a,{to:"/"},"back home"))}}}]);
+//# sourceMappingURL=component---src-pages-page-creator-js-fba381d95d711d2a43b7.js.map
